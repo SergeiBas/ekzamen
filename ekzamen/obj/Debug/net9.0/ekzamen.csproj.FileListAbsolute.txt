@@ -1,0 +1,14 @@
+/Users/sergejbas/RiderProjects/ekzamen/ekzamen/bin/Debug/net9.0/ekzamen
+/Users/sergejbas/RiderProjects/ekzamen/ekzamen/bin/Debug/net9.0/ekzamen.deps.json
+/Users/sergejbas/RiderProjects/ekzamen/ekzamen/bin/Debug/net9.0/ekzamen.runtimeconfig.json
+/Users/sergejbas/RiderProjects/ekzamen/ekzamen/bin/Debug/net9.0/ekzamen.dll
+/Users/sergejbas/RiderProjects/ekzamen/ekzamen/bin/Debug/net9.0/ekzamen.pdb
+/Users/sergejbas/RiderProjects/ekzamen/ekzamen/obj/Debug/net9.0/ekzamen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejbas/RiderProjects/ekzamen/ekzamen/obj/Debug/net9.0/ekzamen.AssemblyInfoInputs.cache
+/Users/sergejbas/RiderProjects/ekzamen/ekzamen/obj/Debug/net9.0/ekzamen.AssemblyInfo.cs
+/Users/sergejbas/RiderProjects/ekzamen/ekzamen/obj/Debug/net9.0/ekzamen.csproj.CoreCompileInputs.cache
+/Users/sergejbas/RiderProjects/ekzamen/ekzamen/obj/Debug/net9.0/ekzamen.dll
+/Users/sergejbas/RiderProjects/ekzamen/ekzamen/obj/Debug/net9.0/refint/ekzamen.dll
+/Users/sergejbas/RiderProjects/ekzamen/ekzamen/obj/Debug/net9.0/ekzamen.pdb
+/Users/sergejbas/RiderProjects/ekzamen/ekzamen/obj/Debug/net9.0/ekzamen.genruntimeconfig.cache
+/Users/sergejbas/RiderProjects/ekzamen/ekzamen/obj/Debug/net9.0/ref/ekzamen.dll
